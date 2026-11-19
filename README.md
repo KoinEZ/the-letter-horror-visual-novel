@@ -11,7 +11,7 @@
 
 Для версии 1.1.9:
 
-[`The Letter русификатор.zip`](https://github.com/KoinEZ/the-letter-horror-visual-novel/releases/download/the-letter-horror-visual-novel/The%20Letter%20%D1%80%D1%83%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80.zip)
+[`The Letter русификатор.zip`](https://github.com/KoinEZ/the-letter-horror-visual-novel/releases/download/the-letter-horror-visual-novel/The.Letter.zip)
 После запуска игра записывает файлы локализации в кэш "...\AppData\LocalLow\Yangyang Mobile\The Letter\" поэтому добавлен батник "Установить", который чистит эту папку. Короче, если есть проблемы после запуска - попробуйте запустить очистку и проверить есть ли в настройках языка "русский", с маленькой буквы без всяких (BETA) - только тогда он работает
 
 Оригинальный пост: https://boosty.to/koinez/posts/4f2eea23-9be4-4e61-915d-a5d3d8194c35
